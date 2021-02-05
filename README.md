@@ -1,8 +1,8 @@
 # Kus_ve_Kelebegi_Birbirinden_Ayiran_Mobil_Uygulama
 
-<img src="kus_ve_kelebek_ayrimi/image/foto1.jpeg"  >
-<h3> </h3>
-<img src="kus_ve_kelebek_ayrimi/image/foto2.jpeg"  >
+<img src="kus_ve_kelebek_ayrimi/image/foto1.jpeg"  height="250"  >
+
+<img src="kus_ve_kelebek_ayrimi/image/foto2.jpeg"  height="250" >
 
 
 
