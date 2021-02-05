@@ -1,5 +1,11 @@
 # Kus_ve_Kelebegi_Birbirinden_Ayiran_Mobil_Uygulama
 
+<img src="kus_ve_kelebek_ayrimi/image/foto1.jpeg"  >
+<h3> </h3>
+<img src="kus_ve_kelebek_ayrimi/image/foto2.jpeg"  >
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -13,9 +19,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-<img src="kus_ve_kelebek_ayrimi/image/foto1.jpeg" width="250" >
-<h3> </h3>
-<img src="kus_ve_kelebek_ayrimi/image/foto2.jpeg" width="250" >
 
 
