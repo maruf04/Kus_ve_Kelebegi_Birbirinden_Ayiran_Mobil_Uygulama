@@ -12,3 +12,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+<img src="kus_ve_kelebek_ayrimi/image/foto1.jpeg" width="250" >
+<h3> </h3>
+<img src="kus_ve_kelebek_ayrimi/image/foto2.jpeg" width="250" >
+
+
